@@ -1,0 +1,55 @@
+EUB19_enabled = 1
+EUB19_iconFileName = "op_f_key\user\U19.bmp"
+EUB19_buttonText = "Headers"
+
+EUB20_enabled = 1
+EUB20_iconFileName = "op_f_key\user\U20.bmp"
+EUB20_buttonText = "Flatten    Surface"
+
+EUB21_enabled = 1
+EUB21_iconFileName = "op_f_key\user\U21.bmp"
+EUB21_buttonText = "Side      Milling"
+
+EUB22_enabled = 1
+EUB22_iconFileName = "op_f_key\user\U22.bmp"
+EUB22_buttonText = "Square    Contour"
+
+EUB23_enabled = 1
+EUB23_iconFileName = "op_f_key\user\U23.bmp"
+EUB23_buttonText = "Round     Contour"
+
+EUB24_enabled = 1
+EUB24_iconFileName = "op_f_key\user\U24.bmp"
+EUB24_buttonText = "Square     Pocket"
+
+EUB25_enabled = 1
+EUB25_iconFileName = "op_f_key\user\U25.bmp"
+EUB25_buttonText = "Round      Pocket"
+
+EUB26_enabled = 1
+EUB26_iconFileName = "op_f_key\user\U26.bmp"
+EUB26_buttonText = "Slotting    "
+
+EUB27_enabled = 1
+EUB27_iconFileName = "op_f_key\user\U27.bmp"
+EUB27_buttonText = "Slitting"
+
+EUB28_enabled = 1
+EUB28_iconFileName = "op_f_key\user\U28.bmp"
+EUB28_buttonText = "Square    Drilling"
+
+EUB29_enabled = 1
+EUB29_iconFileName = "op_f_key\user\U29.bmp"
+EUB29_buttonText = "Circular  Drilling"
+
+EUB30_enabled = 1
+EUB30_iconFileName = "op_f_key\user\U30.bmp"
+EUB30_buttonText = "Tapping"
+
+EUB31_enabled = 1
+EUB31_iconFileName = "op_f_key\user\U31.bmp"
+EUB31_buttonText = "PartProg"
+
+EUB32_enabled = 1
+EUB32_iconFileName = "op_f_key\user\U32.bmp"
+EUB32_buttonText = "Warm-Up"
